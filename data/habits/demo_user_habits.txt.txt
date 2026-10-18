@@ -1,0 +1,5 @@
+Drink Water|Drink 8 glasses of water daily|HEALTH|TIMES_PER_DAY|8|true
+Exercise|30 minutes of physical activity|HEALTH|DAILY|1|true
+Read Books|Read for personal development|EDUCATION|DAILY|1|true
+Meditate|10 minutes of mindfulness|MINDFULNESS|DAILY|1|true
+Plan Day|Review and plan daily activities|PRODUCTIVITY|DAILY|1|true

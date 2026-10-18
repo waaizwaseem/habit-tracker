@@ -1,0 +1,2 @@
+# This file keeps the users directory in version control
+# Remove this file when you have actual user data files
